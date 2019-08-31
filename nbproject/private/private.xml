@@ -2,18 +2,7 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/GameMenus/StartMenu.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/Game/GameMode.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/Game/Game.java</file>
             <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/Game/Controller.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/Model/Cell.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/Algorithm/MinimaxAlgorithm.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/GameMenus/PostGameMenu.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/GameMenus/PauseMenu.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/Model/Grid.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/Game/GameDifficulty.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/TicTacToe/src/Game/TicTacToe.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
